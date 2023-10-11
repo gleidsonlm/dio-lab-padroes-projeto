@@ -1,0 +1,6 @@
+[submodule "lab-padroes-projeto-java"]
+	path = lab-padroes-projeto-java
+	url = https://github.com/digitalinnovationone/lab-padroes-projeto-java.git
+[submodule "lab-padroes-projeto-spring"]
+	path = lab-padroes-projeto-spring
+	url = https://github.com/digitalinnovationone/lab-padroes-projeto-spring.git
